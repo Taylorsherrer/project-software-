@@ -8,7 +8,7 @@ Included in this repository are the project plan, system requirements, class dia
 
 ## File Directory
 
-###Software Project Plan Outline.pdf 
+### Software Project Plan Outline.pdf 
 
 Explains the purpose and scope of our project, along with some files for this state of the project.
 
@@ -19,7 +19,7 @@ Schedule - Project Schedule.mpp
 
 
 
-###System Requirements Document.pdf
+### System Requirements Document.pdf
 
 Defines the functions of our project, along with the files necessary for this state of the project.
 
@@ -33,7 +33,7 @@ Use Case Scenarios - listed in the original PDF
 System Sequence Diagram - System Sequence Diagram(1).vsdx
 
 
-###System Design Document.pdf 
+### System Design Document.pdf 
 
 Provides a map for the functions of our project, along with the remaining files needed for the project.
 
