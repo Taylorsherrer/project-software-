@@ -48,7 +48,7 @@ Provides a map for the functions of our project, along with the remaining files 
 
 ### Design Level Class Diagrams
   #### Attributes and Methods
-    Design Level Class diagram.drawio
+  Design Level Class diagram.drawio
   #### Pseudocode
   Playlist Transfer App Pseudocode (1).docx
 
