@@ -12,20 +12,14 @@ Included in this repository are the project plan, system requirements, class dia
 
 Explains the purpose and scope of our project, along with some files for this state of the project.
 
-
-
 System Context Diagram - System Data Structure (1).drawio
 
-
-
 Schedule - Project Schedule.mpp
-
 
 
 ### System Requirements Document.pdf
 
 Defines the functions of our project, along with the files necessary for this state of the project.
-
 
 Class Diagram - Class Diagram.vsdx
 
@@ -39,7 +33,6 @@ System Sequence Diagram - System Sequence Diagram(1).vsdx
 ### System Design Document.pdf 
 
 Provides a map for the functions of our project, along with the remaining files needed for the project.
-
 
 Design Level Class Diagrams:
   Attributes and Methods - Design Level Class diagram.drawio
