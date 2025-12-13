@@ -1,5 +1,4 @@
 # read-me
-
-Name be TBD By Snowmans
-
-Our app make easy to transfer music playlist to other music platforms like spotify to youtube music. You can make own profile and follow and send you playlist to your friends. You can transfer your playlist in seconds compared to hours. 
+## Playlist Transfer App 
+This repository contains all the files for our CMP-280 Software Engineering project, Playlist Transfer App. The app allows users to transfer playlists between streaming platforms, manage user profiles, and organize their music with features like A-Z organization, BPM sorting, and privacy settings.
+Included in this repository are the project plan, system requirements, class diagrams, design documents, pseudocode, and UI mockups. These files show the planning, design, and implementation phases of the project and serve as a reference for the app’s structure and functionality.
